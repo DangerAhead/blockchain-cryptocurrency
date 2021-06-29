@@ -1,0 +1,7 @@
+{
+      "java.project.referencedLibraries": [
+            "lib/**/*.jar",
+            "c:\\Users\\Ajit Singh\\Desktop\\bcprov-jdk15on-159.jar",
+            "c:\\Users\\Ajit Singh\\Desktop\\gson-2.8.2.jar"
+      ]
+}

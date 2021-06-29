@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Vatsu\\Downloads\\gson-2.6.2.jar",
+        "c:\\Users\\Vatsu\\Downloads\\bcprov-jdk15on-159.jar",
+        "c:\\Users\\Ajit Singh\\Desktop\\bcprov-jdk15on-159.jar",
+        "c:\\Users\\Ajit Singh\\Desktop\\gson-2.8.2.jar",
+        "c:\\Users\\Vatsu\\Downloads\\mongo-java-driver-jdk11-3.12.2.jar"
+    ]
+}
